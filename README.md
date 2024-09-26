@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hannah Christie -  Astrophysics Researcher (she/her)
+#### Data-driven astrophysicist with a strong foundation in statistical analysis and programming, seeking to leverage expertise in Python, R, and large-scale data reduction to provide actionable insights and contribute to a dynamic organization. 
+---
 
-<!--
-**hannchristie/hannchristie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My current work: "The Star Forming Main Sequence of Low Surface Brightness Galaxies" (Christie H.S, and Barmby, P., in prep)
+- My current area of growth: expanding my computational skill set in R, SQL and integrating Machine Learning into my current projects
+- Currently looking to collaborate on: large-scale observational extragalactic research, data science/analyst internships
+---
 
-Here are some ideas to get you started:
+#### Education:
+- UNIVERSITY OF WESTERN ONTARIO MSc. Astronomy (2025)
+- MCMASTER UNIVERSITY BSc. Astrophysics, Minor in Mathematics (2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

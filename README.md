@@ -3,7 +3,7 @@
 #### Member of the @nearby-galaxies group at the University of Western Ontario
 ---
 
-- My current work: "The Star Forming Main Sequence of Low Surface Brightness Galaxies" (Christie H.S, and Barmby, P., in prep)
+- My current work: "The Star Forming Main Sequence of Low Surface Brightness Galaxies" (Christie H.S., and Barmby, P., in prep)
 - My current area of growth: expanding my computational skill set in R, SQL and integrating Machine Learning into my current projects
 - Currently looking to collaborate on: large-scale observational extragalactic research, data science/analyst internships
 ---

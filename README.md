@@ -1,12 +1,12 @@
 ## Hannah Christie -  Astronomy and Astrophysics Graduate Student (she/her)
-#### Member of the AGATE team at Swinburne University of Technology (2025 - Present)
+#### Member of the AGATE team at the Centre for Astrophysics and Supercomputing (2025 - Present)
 ##### Previously part of the @nearby-galaxies group at the University of Western Ontario (2023 - 2025)
 ---
 
 #### Education
 - SWINBURNE UNIVERSITY OF TECHNOLOGY, PhD Astrophysics (2025-Present)
-- UNIVERSITY OF WESTERN ONTARIO MSc. Astronomy (2025)
-- MCMASTER UNIVERSITY BSc. Astrophysics, Minor in Mathematics (2023)
+- UNIVERSITY OF WESTERN ONTARIO, MSc. Astronomy (2025)
+- MCMASTER UNIVERSITY, BSc. Astrophysics, Minor in Mathematics (2023)
 
 ---
 #### Publications

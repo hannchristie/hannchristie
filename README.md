@@ -3,7 +3,7 @@
 ##### Previously part of the @nearby-galaxies group at the University of Western Ontario (2023 - 2025)
 ---
 
-#### Education:
+#### Education
 - SWINBURNE UNIVERSITY OF TECHNOLOGY, PhD Astrophysics (2025-Present)
 - UNIVERSITY OF WESTERN ONTARIO MSc. Astronomy (2025)
 - MCMASTER UNIVERSITY BSc. Astrophysics, Minor in Mathematics (2023)
@@ -15,7 +15,8 @@
 - Hannah S. Christie, Adrien Helias, Matheus do Carmo Carvalho, and Pauline Barmby. (2024). *TONGS: A Treasury of Nearby Galaxy Surveys.* Publications of the Astronomical Society of the Pacific. 10.1088/1538-3873/ad26a1
 - Dhananjhay Bansal, Hannah S. Christie, Mathieu Dumberry. (2023). *Libration- and Precession-driven Dissipations in the Fluid Cores of the TRAPPIST-1 Planets.* The Astrophysical Journal. 10.3847/PSJ/acf3de 
 
-
+#### Contact
+- hchristie [at] swin.edu.au
 
 
 
